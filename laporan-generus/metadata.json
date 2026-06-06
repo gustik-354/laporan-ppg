@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Generus",
+  "description": "Aplikasi Laporan Bulanan Kegiatan Pengajian Generasi Penerus",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
